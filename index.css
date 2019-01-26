@@ -3,3 +3,47 @@
 background-image: url(images/cdn.jpg);
 color: white;
 }
+
+#header {
+
+    background-image: url(images/index.jpg);
+}
+
+#portfoliocard1 {
+    color: coral;
+    margin-top:100%;
+    border: solid;
+    text-align: center;
+
+    }
+    
+#portfoliocard2 {
+    color: coral;
+      margin-top:100%;
+    border: solid;
+text-align: center;
+}
+
+#portfoliocard3 {
+    color: coral;
+      margin-top:100%;
+    border: solid;
+text-align: center;
+}
+
+#portfoliocard4 {
+    color: coral;
+      margin-top:100%;
+    border: solid;
+text-align: center;
+}
+
+.nav-item {
+
+    color: white;
+}
+
+.needs-validation {
+
+    margin-top: 50px;
+}
