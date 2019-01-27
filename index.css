@@ -1,49 +1,70 @@
 #body {
-
-background-image: url(images/cdn.jpg);
-color: white;
+  background-image: url(images/cdn.jpg);
+  color: white;
+  margin: 0;
 }
 
 #header {
-
-    background-image: url(images/index.jpg);
+  background-image: url(images/index.jpg);
 }
 
 #portfoliocard1 {
-    color: coral;
-    margin-top:100%;
-    border: solid;
-    text-align: center;
+  color: coral;
+  margin-top: 20%;
+  border: solid;
+  text-align: center;
+}
 
-    }
-    
 #portfoliocard2 {
-    color: coral;
-      margin-top:100%;
-    border: solid;
-text-align: center;
+  color: coral;
+  margin-top: 20%;
+  border: solid;
+  text-align: center;
 }
 
 #portfoliocard3 {
-    color: coral;
-      margin-top:100%;
-    border: solid;
-text-align: center;
+  color: coral;
+  margin-top: 20%;
+  border: solid;
+  text-align: center;
 }
 
 #portfoliocard4 {
-    color: coral;
-      margin-top:100%;
-    border: solid;
-text-align: center;
+  color: coral;
+  margin-top: 20%;
+  border: solid;
+  text-align: center;
 }
 
 .nav-item {
-
-    color: white;
+  color: white;
 }
 
 .needs-validation {
+  margin-top: 50px;
+}
 
-    margin-top: 50px;
+.navbar-toggler-icon {
+  background-image: url("images/toggle.png");
+}
+
+.dropdown-menu {
+  width: 30%;
+  background-color: white;
+}
+
+.footer {
+  background-image: url("images/index.jpg");
+  text-align: center;
+  padding: 5px;
+  margin-top: 20px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.container-fluid {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
 }
