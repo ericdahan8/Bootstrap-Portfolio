@@ -6,13 +6,13 @@
 }
 
 #header {
-  background-image: url(images/index.jpg);
+  background-image: url(images/ep_naturalblack.png);
   font-family: monospace;
   color: #ccff00;
 }
 
 #portfoliocard1 {
-  color: coral;
+  color: white;
   margin-top: 20%;
   border: solid;
   text-align: center;
@@ -20,7 +20,7 @@
 }
 
 #portfoliocard2 {
-  color: coral;
+  color: #ccff00;
   margin-top: 20%;
   border: solid;
   text-align: center;
@@ -28,7 +28,7 @@
 }
 
 #portfoliocard3 {
-  color: #ccff00;
+  color: white;
   margin-top: 20%;
   border: solid;
   text-align: center;
@@ -63,7 +63,7 @@
 }
 
 .footer {
-  background-image: url("images/index.jpg");
+  background-image: url("images/ep_naturalblack.png");
   text-align: center;
   padding: 5px;
   margin-top: 20px;
@@ -113,11 +113,10 @@
 
 .flip-card-front {
   background-color: #bbb;
-  color: black;
   z-index: 2;
   vertical-align: middle;
   color: #ccff00;
-  background-color: black;
+  background-image: url(../Bootstrap-Portfolio/images/ep_naturalblack.png);
   border: ridge;
   border-color: #ccff00;
 }
@@ -128,7 +127,7 @@
   transform: rotateY(180deg);
   z-index: 1;
   color: #ccff00;
-  background-color: black;
+  background-image: url(../Bootstrap-Portfolio/images/ep_naturalblack.png);
   font-size: xx-small;
   border: ridge;
   border-color: #ccff00;
